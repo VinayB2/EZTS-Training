@@ -1,2 +1,4 @@
-Day - 1: OOPS and Problem Solving
-Day - 2: Problem Solving
+# 20 Days of DSA with EZ Training
+
+DAY-1: OOPS and problem solving
+DAY-2: Problem solving
