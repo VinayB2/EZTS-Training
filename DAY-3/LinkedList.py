@@ -1,7 +1,7 @@
 class Node:
-    def __init__(self, data):
+    def __init__(self, data, next = None):
         self.value = data
-        self.next = None
+        self.next = next
 class LinkedList:
     def __init__(self, data):
         self.head = Node(data)
