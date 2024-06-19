@@ -9,6 +9,7 @@ def merge(left, right):
             temp[t] = right[r]
             r += 1
         t += 1
+    print(left[l:],  right[r:])
     while l < len(left):
         temp[t] = left[l]
         t += 1
