@@ -26,6 +26,7 @@ def DFShelper(graph, v, s, e):
     for i in graph[e]:
         DFShelper(graph, v, s, i[1])
     print(s.pop())
+    
 def BFS(G):
     BFShelper(G, 1)
 def BFShelper(G, e):

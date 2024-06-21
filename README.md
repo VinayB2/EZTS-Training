@@ -12,4 +12,6 @@
 
 **DAY-5:** Trees and its traversals(BFS, DFS)
 
-**DAY-6:** AVL Trees, Graphs
+**DAY-6:** AVL Trees(Theory), Graphs
+
+**DAY-7:** AVL Trees(Implementation), Questions on Logic building
