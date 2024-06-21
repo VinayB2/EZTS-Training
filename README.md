@@ -9,3 +9,7 @@
 **DAY-3:** Stacks, Queues and LinkedList
 
 **DAY-4:** Sorting (Bubble, Insertion, Quick)
+
+**DAY-5:** Trees and its traversals(BFS, DFS)
+
+**DAY-6:** AVL Trees, Graphs
