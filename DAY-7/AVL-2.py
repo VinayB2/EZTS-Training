@@ -69,10 +69,26 @@ def inOrder(node):
     print(node.value)
     inOrder(node.right)
 
+def levelOrder(root):
+    ans = []
+    queue = [root]
+    while len(queue) != 0:
+        lev = []
+        h = len(queue)
+        for i in range(h):
+            e = queue.pop(0)
+            lev.append(e)
+            if e.left != None:
+                queue.append(e.left)
+            if e.right != None:
+                queue.append(e.right)
+        ans.append(lev)
+    return ans
+
 
 if __name__ == "__main__":
     lst = [1,5,2,3,7,8,9]
     root = None
     for i in lst:
         root = insert(root, i)
-    inOrder(root)
+    print(levelOrder(root))
