@@ -15,3 +15,5 @@
 **DAY-6:** AVL Trees(Theory), Graphs
 
 **DAY-7:** AVL Trees(Implementation), Questions on Logic building
+
+**DAY-10:** Graph algorithms
