@@ -2,18 +2,18 @@
 
 # 20 Days of DSA with EZ Training 
 
-**DAY-1:** OOPS and problem solving
+**1** OOPS and problem solving
 
-**DAY-2:** Problem solving
+**2** Problem solving
 
-**DAY-3:** Stacks, Queues and LinkedList
+**3** Stacks, Queues and LinkedList
 
-**DAY-4:** Sorting (Bubble, Insertion, Quick)
+**4** Sorting (Bubble, Insertion, Quick)
 
-**DAY-5:** Trees and its traversals(BFS, DFS)
+**5** Trees and its traversals(BFS, DFS)
 
-**DAY-6:** AVL Trees(Theory), Graphs
+**6** AVL Trees(Theory), Graphs
 
-**DAY-7:** AVL Trees(Implementation), Questions on Logic building
+**7** AVL Trees(Implementation), Questions on Logic building
 
-**DAY-10:** Graph algorithms
+**10** Graph algorithms
